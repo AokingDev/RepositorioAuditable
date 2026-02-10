@@ -9,3 +9,7 @@
 ## Convención
 - Commits: chore/docs/feat/fix + referencia ISSUE-xx
 - Versiones: SemVer (vMAJOR.MINOR.PATCH)
+
+## Auditoría
+- Correcciones de versionado y trazabilidad realizadas bajo ISSUE-21.
+
